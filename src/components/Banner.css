@@ -1,0 +1,16 @@
+ 
+
+ :root{
+    --color-Primary: rgb(255, 255, 255);
+
+ }
+
+.banner {
+    background-color: var(--color-Primary) ;
+    text-align: center;
+
+}
+
+.Banner img {
+    max-width: 100%;
+}
