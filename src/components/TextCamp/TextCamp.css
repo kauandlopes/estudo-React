@@ -10,14 +10,14 @@
 }
 
 .text-camp input{
-    
-    background-color: #ffe1c8;
+    background-color: #FFB88C;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0);
     width: 92%;
     display: flex;
     border: none;
     font-size: 24px;
     padding: 24px;
+    border-radius: 8px;
     
-
+    
 }

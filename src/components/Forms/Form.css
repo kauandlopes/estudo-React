@@ -3,14 +3,13 @@
   align-items: center;     
   justify-content: center; 
   height: 100vh;           
-  background-color: #f9f9f9; 
+  background-color: #003b33; 
 }
 
 .form form {
   max-width: 600px;
   width: 100%;
-  background-color: #fce7f6;
+  background-color: #A3D9C9;
   padding: 40px;
-  
   border-radius: 12px;
 }

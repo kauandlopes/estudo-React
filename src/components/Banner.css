@@ -1,16 +1,20 @@
  
 
  :root{
-    --color-Primary: rgb(255, 255, 255);
+    --color-Primary: #74afaa;
 
  }
 
 .banner {
-    background-color: var(--color-Primary) ;
-    text-align: center;
+    background-color: #74afaa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 
 .Banner img {
     max-width: 100%;
+    
+    
 }
